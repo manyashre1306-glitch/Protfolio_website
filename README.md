@@ -1,16 +1,59 @@
-# React + Vite
+# Manya Shree NG - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive personal portfolio website built using React and Vite.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I am an engineering student interested in Artificial Intelligence,
+AI automation, software development, and building practical projects.
 
-## React Compiler
+## Skills
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Python
+- C
+- HTML
+- CSS
+- JavaScript
+- React
+- Git & GitHub
+- AI / Machine Learning
 
-## Expanding the ESLint configuration
+## Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 1. Medicine Shortage Predictor
+
+A dashboard designed to monitor medicine availability and identify
+possible medicine shortages.
+
+**Technologies:** Python, FastAPI, React, AI
+
+### 2. VoiceGuard
+
+An AI-based system designed to detect possible voice cloning and
+impersonation attacks.
+
+**Technologies:** Python, PyTorch, FastAPI, React
+
+### 3. Portfolio Website
+
+A responsive personal portfolio website created to showcase my
+skills, projects, and achievements.
+
+**Technologies:** React, Vite, HTML, CSS, JavaScript
+
+## Features
+
+- Responsive design
+- About section
+- Skills section
+- Projects section
+- Contact section
+- Modern portfolio interface
+
+## Getting Started
+
+Install the dependencies:
+
+```bash
+npm install
+```
